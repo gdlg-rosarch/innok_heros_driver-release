@@ -1,0 +1,12 @@
+Source: ros-hydro-innok-heros-driver
+Section: misc
+Priority: extra
+Maintainer: Alwin Heerklotz <ah@innok-robotics.de>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-geometry-msgs, ros-hydro-rospy, ros-hydro-std-msgs, ros-hydro-tf
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-innok-heros-driver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-geometry-msgs, ros-hydro-rospy, ros-hydro-std-msgs, ros-hydro-tf
+Description: Driver for the Innok Heros robot plattform
