@@ -1,3 +1,26 @@
+## innok_heros_driver (indigo) - 1.0.2-0
+
+The packages in the `innok_heros_driver` repository were released into the `indigo` distro by running `/usr/bin/bloom-release innok_heros_driver --track indigo --rosdistro indigo` on `Thu, 17 Mar 2016 08:13:23 -0000`
+
+The `innok_heros_driver` package was released.
+
+Version of package(s) in repository `innok_heros_driver`:
+
+- upstream repository: https://github.com/innokrobotics/innok_heros_driver.git
+- release repository: https://github.com/innokrobotics/innok_heros_driver-release.git
+- rosdistro version: `1.0.1-0`
+- old version: `1.0.1-0`
+- new version: `1.0.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.5`
+- vcstools version: `0.1.38`
+
+
 ## innok_heros_driver (indigo) - 1.0.1-0
 
 The packages in the `innok_heros_driver` repository were released into the `indigo` distro by running `/usr/bin/bloom-release innok_heros_driver --track indigo --rosdistro indigo` on `Tue, 20 Jan 2015 14:00:40 -0000`
