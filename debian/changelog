@@ -1,0 +1,41 @@
+ros-jade-innok-heros-driver (1.0.3-1trusty) trusty; urgency=high
+
+  * release for ROS Jade
+
+ -- Alwin Heerklotz <ah@innok-robotics.de>  Fri, 16 Jun 2017 22:00:00 -0000
+
+ros-jade-innok-heros-driver (1.0.2-1trusty) trusty; urgency=high
+
+  * changed default addresses
+  * added lights and joy topics, changed watchdog unit
+  * Contributors: Alwin Heerklotz, Sandra Reitinger
+
+ -- Alwin Heerklotz <ah@innok-robotics.de>  Wed, 16 Mar 2016 23:00:00 -0000
+
+ros-jade-innok-heros-driver (1.0.1-1trusty) trusty; urgency=high
+
+  * fixed installation
+  * Contributors: Alwin Heerklotz
+
+ -- Alwin Heerklotz <ah@innok-robotics.de>  Mon, 19 Jan 2015 23:00:00 -0000
+
+ros-jade-innok-heros-driver (1.0.0-1trusty) trusty; urgency=high
+
+  * publish battery voltage
+  * bugfix for host parameter
+  * eliminated KDL dependency
+  * Contributors: Alwin Heerklotz
+
+ -- Alwin Heerklotz <ah@innok-robotics.de>  Mon, 15 Dec 2014 23:00:00 -0000
+
+ros-jade-innok-heros-driver (0.2.0-1trusty) trusty; urgency=high
+
+  * fixed launch file
+  * edited readme
+  * Merge branch 'master' of ssh://github.com/innokrobotics/innok_heros_driver
+  * initial commit of heros driver
+  * Contributors: Alwin Heerklotz
+
+ -- Alwin Heerklotz <ah@innok-robotics.de>  Wed, 03 Sep 2014 22:00:00 -0000
+
+
