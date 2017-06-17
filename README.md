@@ -1,3 +1,26 @@
+## innok_heros_driver (kinetic) - 1.0.4-0
+
+The packages in the `innok_heros_driver` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release innok_heros_driver --track kinetic --rosdistro kinetic` on `Sat, 17 Jun 2017 16:56:24 -0000`
+
+The `innok_heros_driver` package was released.
+
+Version of package(s) in repository `innok_heros_driver`:
+
+- upstream repository: https://github.com/innokrobotics/innok_heros_driver.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.4-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.5`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## innok_heros_driver (jade) - 1.0.3-1
 
 The packages in the `innok_heros_driver` repository were released into the `jade` distro by running `/usr/bin/bloom-release innok_heros_driver --track jade --rosdistro jade` on `Sat, 17 Jun 2017 16:29:01 -0000`
