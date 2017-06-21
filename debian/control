@@ -1,0 +1,12 @@
+Source: ros-lunar-innok-heros-driver
+Section: misc
+Priority: extra
+Maintainer: Alwin Heerklotz <ah@innok-robotics.de>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin, ros-lunar-geometry-msgs, ros-lunar-rospy, ros-lunar-std-msgs, ros-lunar-tf
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-lunar-innok-heros-driver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-geometry-msgs, ros-lunar-rospy, ros-lunar-std-msgs, ros-lunar-tf
+Description: Driver for the Innok Heros robot plattform
